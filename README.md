@@ -1,0 +1,2 @@
+# hippobuttexplosionash.js
+BOOM!
